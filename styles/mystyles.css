@@ -1,9 +1,10 @@
-  body {
-   padding-left: 11em;
-   font-family: Georgia, "Times New Roman",
-          Times, serif;
-		  color: purple;
-    background-color: #d8da3d }
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: black;
+    /*background-color: #d8da3d*/
+    background-color: #b8d8ff;
+}
 	 ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -30,3 +31,8 @@
     margin-top: 1em;
     padding-top: 1em;
     border-top: thin dotted }
+
+.opp_img{
+    width: 50%;
+    height: 50%;
+}
